@@ -1,0 +1,609 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ABSTRACT.Main",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "HTTT",
+            "request": "launch",
+            "mainClass": "BTABS.HTTT",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "QLNV",
+            "request": "launch",
+            "mainClass": "BTABS.QLNV",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "QLPT",
+            "request": "launch",
+            "mainClass": "BTABS.QLPT",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Bai_tap_binarySearch",
+            "request": "launch",
+            "mainClass": "BT_binarySearch.Bai_tap_binarySearch",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Bai_tap_split",
+            "request": "launch",
+            "mainClass": "BT_binarySearch.Bai_tap_split",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "BaiTapChanLe",
+            "request": "launch",
+            "mainClass": "BaiTapChanLe",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "BaiTapHinhTron",
+            "request": "launch",
+            "mainClass": "BaiTapHinhTron",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "BangCuaChuong",
+            "request": "launch",
+            "mainClass": "BangCuaChuong",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TKB_Test",
+            "request": "launch",
+            "mainClass": "ENUM.TKB_Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "ENUM.Time",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "DocDoiTuong",
+            "request": "launch",
+            "mainClass": "Folder_File.SinhVien.DocDoiTuong",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TestSinhVien",
+            "request": "launch",
+            "mainClass": "Folder_File.SinhVien.TestSinhVien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuLuuDoiTuong",
+            "request": "launch",
+            "mainClass": "Folder_File.SinhVien.ViDuLuuDoiTuong",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TapTin_ThuMuc",
+            "request": "launch",
+            "mainClass": "Folder_File.TapTin_ThuMuc",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuDocFile",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDuDocFile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuFile",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDuFile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuGhiFile",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDuGhiFile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuLuuDoiTuong(1)",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDuLuuDoiTuong",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDuXoaFile",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDuXoaFile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDu_file",
+            "request": "launch",
+            "mainClass": "Folder_File.ViDu_file",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "HashSet_RutTham",
+            "request": "launch",
+            "mainClass": "Game.HashSet_RutTham",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet_RutTham",
+            "request": "launch",
+            "mainClass": "Game.TreeSet_RutTham",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Tu_Dien",
+            "request": "launch",
+            "mainClass": "Game.Tu_Dien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "tai_xiu",
+            "request": "launch",
+            "mainClass": "Game.tai_xiu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "Generic.Box",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Box_2",
+            "request": "launch",
+            "mainClass": "Generic.Box_2",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MayTinh",
+            "request": "launch",
+            "mainClass": "Interface.MayTinh",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "NhiPhanVongLap",
+            "request": "launch",
+            "mainClass": "JavaLoop.NhiPhanVongLap",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "VongLap",
+            "request": "launch",
+            "mainClass": "JavaLoop.VongLap",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "VongLapDoWhile",
+            "request": "launch",
+            "mainClass": "JavaLoop.VongLapDoWhile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "VongLapWhile",
+            "request": "launch",
+            "mainClass": "JavaLoop.VongLapWhile",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "KeThua.Main",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainMath",
+            "request": "launch",
+            "mainClass": "KeThua.MainMath",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PhungTien",
+            "request": "launch",
+            "mainClass": "KeThua.PhungTien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "KiemTraSoNgay",
+            "request": "launch",
+            "mainClass": "KiemTraSoNgay",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Last_button.Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "BorderLayout_bl",
+            "request": "launch",
+            "mainClass": "Layout.BorderLayout_bl",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "FlowLayout_fl",
+            "request": "launch",
+            "mainClass": "Layout.FlowLayout_fl",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "GridLayout_gl",
+            "request": "launch",
+            "mainClass": "Layout.GridLayout_gl",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Learn.Array",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Array_2",
+            "request": "launch",
+            "mainClass": "Learn.Array_2",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "CauLenhTraVeBreakCotinueReturn",
+            "request": "launch",
+            "mainClass": "Learn.CauLenhTraVeBreakCotinueReturn",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Chuoi",
+            "request": "launch",
+            "mainClass": "Learn.Chuoi",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Chuoi_2",
+            "request": "launch",
+            "mainClass": "Learn.Chuoi_2",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ChuyenDoiKieuDuLieu",
+            "request": "launch",
+            "mainClass": "Learn.ChuyenDoiKieuDuLieu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "GanDuLieu",
+            "request": "launch",
+            "mainClass": "Learn.GanDuLieu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MathVaHamToanHoc",
+            "request": "launch",
+            "mainClass": "Learn.MathVaHamToanHoc",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "NhapGiaTri",
+            "request": "launch",
+            "mainClass": "Learn.NhapGiaTri",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PhepToanMotNgoi",
+            "request": "launch",
+            "mainClass": "Learn.PhepToanMotNgoi",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "SoSanhVaDieuKien",
+            "request": "launch",
+            "mainClass": "Learn.SoSanhVaDieuKien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "So_Sanh_Chuoi",
+            "request": "launch",
+            "mainClass": "Learn.So_Sanh_Chuoi",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "Learn.SwitchCase",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "Learn.Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ToanTu",
+            "request": "launch",
+            "mainClass": "Learn.ToanTu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ToanTuDieuKien",
+            "request": "launch",
+            "mainClass": "Learn.ToanTuDieuKien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "Learn.TryCatch",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "chuyen_doi_chuoi",
+            "request": "launch",
+            "mainClass": "Learn.chuyen_doi_chuoi",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "find_string",
+            "request": "launch",
+            "mainClass": "Learn.find_string",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainCF",
+            "request": "launch",
+            "mainClass": "OOPJava.Coffe.MainCF",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "QLMT",
+            "request": "launch",
+            "mainClass": "OOPJava.Computer.QLMT",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "RapChieu",
+            "request": "launch",
+            "mainClass": "OOPJava.Movie.RapChieu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "OOPJava.MyDate.Main",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainD",
+            "request": "launch",
+            "mainClass": "OOPJava.MyDate.MainD",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainDate",
+            "request": "launch",
+            "mainClass": "OOPJava.MyDate.MainDate",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainMD",
+            "request": "launch",
+            "mainClass": "OOPJava.MyDate.MainMD",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainBook",
+            "request": "launch",
+            "mainClass": "OOPJava.QuanLisach.MainBook",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "MainST",
+            "request": "launch",
+            "mainClass": "OOPJava.Student.MainST",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "QLTTSV",
+            "request": "launch",
+            "mainClass": "OOPJava.Student2.QLTTSV",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PhuongTrinhBacHai",
+            "request": "launch",
+            "mainClass": "PhuongTrinhBacHai",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PhuongTrinhBacNhat",
+            "request": "launch",
+            "mainClass": "PhuongTrinhBacNhat",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "QLSV",
+            "request": "launch",
+            "mainClass": "QLSV",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Deque_EX",
+            "request": "launch",
+            "mainClass": "QUEUE_DEQUE.Deque_EX",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "PriortityQueue",
+            "request": "launch",
+            "mainClass": "QUEUE_DEQUE.PriortityQueue",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Queue_EX",
+            "request": "launch",
+            "mainClass": "QUEUE_DEQUE.Queue_EX",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "TestSinhVien(1)",
+            "request": "launch",
+            "mainClass": "TestSinhVien",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Test(3)",
+            "request": "launch",
+            "mainClass": "UP_DOWN.Test",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDu3",
+            "request": "launch",
+            "mainClass": "ViDu3",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDu4",
+            "request": "launch",
+            "mainClass": "ViDu4",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "View.Calculator",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "ViDu",
+            "request": "launch",
+            "mainClass": "View.ViDu",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Windown",
+            "request": "launch",
+            "mainClass": "View.Windown",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "stdent",
+            "request": "launch",
+            "mainClass": "stdent",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "viDu",
+            "request": "launch",
+            "mainClass": "viDu",
+            "projectName": "java_a7cf075c"
+        }
+    ]
+}
